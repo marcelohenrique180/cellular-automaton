@@ -1,0 +1,12 @@
+.Menu {
+  padding: 3em
+}
+
+.Menu input {
+  padding: 1em
+}
+
+.Menu button {
+  padding: 1em;
+  margin: 1em;
+}

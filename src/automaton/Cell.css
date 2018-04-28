@@ -1,0 +1,8 @@
+.cell {
+  height: 1vh;
+  width: 1vw;
+}
+
+.cell-active {
+  background-color: black;
+}
